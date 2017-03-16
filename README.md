@@ -1,7 +1,9 @@
 # pinguimgame
 
-Ficheiros:
+O jogo tem como funcionalidades, o teleporte.
 
-character.png
-exercicio5.html
-screen.png
+O pinguim ganha pontos quando se consegue teleportar com sucesso.
+
+Para controlar o pinguim, pode-se usar o cursor e a letra S para parar.
+
+Tem também a funcionalide xiu e unxiu, que serve, respectivamente, para silenciar ou ativar a trilha sonora.
