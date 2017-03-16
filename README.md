@@ -1,4 +1,4 @@
-# pinguimgame
+# Pinguim ... o jogo
 
 O jogo tem como funcionalidades, o teleporte.
 
