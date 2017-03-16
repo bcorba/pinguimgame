@@ -1,6 +1,6 @@
 # Pinguim ... o jogo
 
-O jogo tem como funcionalidades, o teleporte.
+O jogo tem como funcionalidade major, o teleporte.
 
 O pinguim ganha pontos quando se consegue teleportar com sucesso.
 
