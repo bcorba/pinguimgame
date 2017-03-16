@@ -75,7 +75,7 @@ function moveBx() {
 	var myclass = new Array('front-right','front-stand','front-left');
 	var n= Math.round(Math.random()*2);
 	document.getElementById('character').setAttribute('class',myclass[n]);
-	YPos-=2;        
+	YPos--;        
 	move();
 
 };
@@ -83,21 +83,21 @@ function moveCm() {
 	var myclass = new Array('back-right','back-stand','back-left');
 	var n= Math.round(Math.random()*2);
 	document.getElementById('character').setAttribute('class',myclass[n]);
-	YPos+=2;        
+	YPos++;        
 	move();
 };
 function moveDir() {
 	var myclass = new Array('right-right','right-stand','right-left');
 	var n= Math.round(Math.random()*2);
 	document.getElementById('character').setAttribute('class',myclass[n]);
-	XPos-=2;        
+	XPos--;        
 	move();
 };
 function moveEsq() {
 	var myclass = new Array('left-right','left-stand','left-left');
 	var n= Math.round(Math.random()*2);
 	document.getElementById('character').setAttribute('class',myclass[n]);
-	XPos+=2;        
+	XPos++;        
 	move();
 };
 
